@@ -1,1 +1,3 @@
 # curso-angular
+
+Segunda entrega.
